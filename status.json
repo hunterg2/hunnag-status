@@ -1,0 +1,45 @@
+{
+  "updated": "2026-11-28T20:18:26Z",
+  "bots": {
+    "dbdbot": {
+      "online": true,
+      "since": "2026-11-22T02:49:16Z",
+      "servers": 0
+    },
+    "eventbot": {
+      "online": true,
+      "since": "2026-11-22T02:49:17Z",
+      "servers": 2
+    },
+    "giveawaybot": {
+      "online": true,
+      "since": "2026-11-22T02:49:17Z",
+      "servers": 4
+    },
+    "mafiabot": {
+      "online": true,
+      "since": "2026-11-22T02:49:17Z",
+      "servers": 5
+    },
+    "rolereactionbot": {
+      "online": true,
+      "since": "2026-11-22T02:49:16Z",
+      "servers": 4
+    },
+    "scribebot": {
+      "online": true,
+      "since": "2026-11-22T02:49:17Z",
+      "servers": 2
+    },
+    "squadbot": {
+      "online": false,
+      "since": null,
+      "servers": null
+    },
+    "ticketbot": {
+      "online": true,
+      "since": "2026-11-22T02:49:16Z",
+      "servers": 3
+    }
+  }
+}
